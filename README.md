@@ -4,16 +4,16 @@ This repository contains APK files for UNICap Android application.
 
 ## Latest Version
 
-- **Version:** 2.0.29 (versionCode: 229)
-- **File:** [SMSCap-2.0.29.apk](SMSCap-2.0.29.apk)
+- **Version:** 2.0.30 (versionCode: 230)
+- **File:** [SMSCap-2.0.30.apk](SMSCap-2.0.30.apk)
 - **Size:** 17M
-- **Release Date:** 2025-10-29 21:43:31
+- **Release Date:** 2025-10-29 22:09:14
 
 ## Download
 
 Direct download link:
 ```
-https://github.com/dviz/dist/raw/main/SMSCap-2.0.29.apk
+https://github.com/dviz/dist/raw/main/SMSCap-2.0.30.apk
 ```
 
 ## Update Metadata
@@ -30,17 +30,17 @@ Update metadata is available at [latest.json](latest.json)
 ## SHA256 Hash
 
 ```
-4efbd579a0b0b0f7f1920ef6a95cd03e2314bc60f26555b3c6aa73743e56aba1
+9549c69d429b0136fdf0dc1263943dba1675db12717a20cb06540bc670641f67
 ```
 
 ## Version History
 
 | Version | Release Date | Size | Download |
 |---------|--------------|------|----------|
-| 2.0.29 | 2025-10-29 | 17M | [Download](SMSCap-2.0.29.apk) |
+| 2.0.30 | 2025-10-29 | 17M | [Download](SMSCap-2.0.30.apk) |
 
 ## Changelog
 
-### Version 2.0.29
+### Version 2.0.30
 - Bug fixes and improvements
 - Performance optimizations
