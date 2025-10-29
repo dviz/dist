@@ -1,0 +1,11 @@
+{
+  "version_name": "2.0.12",
+  "version_code": 212,
+  "download_url": "https://github.com/dviz/dist/raw/main/SMSCap-2.0.12.apk",
+  "sha256": "9398d5f381fb7102d6abfc22863fe40e141f7c5b39bde9df1c427fac797e10dc",
+  "size": 26981059,
+  "release_date": 1761752888000,
+  "changelog": "Version 2.0.12: Bug fixes and improvements",
+  "is_critical": false,
+  "force_update": false
+}
