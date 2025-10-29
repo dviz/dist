@@ -1,16 +1,16 @@
 {
   "update_available": true,
   "latest_version": {
-    "version_code": 215,
-    "version_name": "2.0.15",
-    "download_url": "https://github.com/dviz/dist/raw/main/SMSCap-2.0.15.apk",
-    "sha256_hash": "4a4a6a469967cad04f2b1624387ec9c24633cb6278307791847a1fadbb63b9b6",
-    "release_date": 1761756420000,
-    "file_size": 26985155,
-    "changelog": "Version 2.0.15: Bug fixes and improvements",
+    "version_code": 216,
+    "version_name": "2.0.16",
+    "download_url": "https://github.com/dviz/dist/raw/main/SMSCap-2.0.16.apk",
+    "sha256_hash": "0e3735081275dc7df0f12533c6260972b64b5f636cd8097e9e2c22be12134539",
+    "release_date": 1761756789000,
+    "file_size": 26990701,
+    "changelog": "Version 2.0.16: Bug fixes and improvements",
     "is_critical": false
   },
-  "current_version": 214,
+  "current_version": 215,
   "update_config": {
     "check_interval_seconds": 3600,
     "auto_download": false,
