@@ -1,0 +1,20 @@
+{
+  "update_available": true,
+  "latest_version": {
+    "version_code": 3,
+    "version_name": "1.0.2",
+    "download_url": "https://github.com/dviz/dist/raw/main/SMSCap-1.0.2.apk",
+    "sha256_hash": "a43d9f63d179c7c80cf643c442c321cf06bbee432e7fafb445b6c821f14530cb",
+    "release_date": 1761703702000,
+    "file_size": 26944005,
+    "changelog": "Fix: SMS sending to server, WebSocket stability improvements, background operation fixes",
+    "is_critical": false
+  },
+  "current_version": 2,
+  "update_config": {
+    "check_interval_seconds": 3600,
+    "auto_download": false,
+    "auto_install": false,
+    "wifi_only": false
+  }
+}
