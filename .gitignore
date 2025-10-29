@@ -1,0 +1,6 @@
+# Ignore build artifacts
+*.tmp
+*.log
+
+# Keep APK files
+!*.apk
