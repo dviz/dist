@@ -1,0 +1,11 @@
+{
+  "platform": "android",
+  "version": "0.0.8",
+  "build_number": 8,
+  "release_date": "2025-10-30T17:50:00+00:00",
+  "download_url": "https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.8.apk",
+  "file_size": 17566686,
+  "checksum": "c8ba69ccbbda4b9b39630a23fc5c964b7f397e27b115afa1931c7ae2b137f0d6",
+  "release_notes": "Version 0.0.8: Bug fixes and improvements",
+  "required": false
+}
