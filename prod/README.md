@@ -2,20 +2,20 @@
 
 ## Latest Version
 
-- **Version:** 0.0.5 (versionCode: 5)
-- **File:** [UNICap-0.0.5.apk](UNICap-0.0.5.apk)
+- **Version:** 0.0.6 (versionCode: 6)
+- **File:** [UNICap-0.0.6.apk](UNICap-0.0.6.apk)
 - **Size:** 17M
 - **Environment:** PROD
-- **Release Date:** 2025-10-30 13:10:47
+- **Release Date:** 2025-10-30 13:12:19
 
 ## Download
 
 ```
-https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.5.apk
+https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.6.apk
 ```
 
 ## SHA256 Hash
 
 ```
-e5c81a75eba95dda82277582ed49ad0591ee2fa950cc69367f0b379cdc8a956a
+3c3b5c2f3e3bd10d9cca65dc94e892854b598ae30c87f3ba0a4f6ae53f131636
 ```
