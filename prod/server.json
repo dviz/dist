@@ -1,11 +1,11 @@
 {
   "platform": "android",
-  "version": "0.0.8",
-  "build_number": 8,
-  "release_date": "2025-10-30T17:50:00+00:00",
-  "download_url": "https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.8.apk",
-  "file_size": 17566686,
-  "checksum": "c8ba69ccbbda4b9b39630a23fc5c964b7f397e27b115afa1931c7ae2b137f0d6",
-  "release_notes": "Version 0.0.8: Bug fixes and improvements",
+  "version": "0.0.9",
+  "build_number": 9,
+  "release_date": "2025-10-30T17:52:31+00:00",
+  "download_url": "https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.9.apk",
+  "file_size": 17566690,
+  "checksum": "6839a1ce0c55174f2e8c5692ac8e111229c05acad4baa3b83d4930e8de929344",
+  "release_notes": "Version 0.0.9: Bug fixes and improvements",
   "required": false
 }
