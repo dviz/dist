@@ -1,0 +1,20 @@
+{
+  "update_available": true,
+  "latest_version": {
+    "version_code": 3,
+    "version_name": "0.0.3",
+    "download_url": "https://github.com/dviz/dist/raw/main/test/UNICap-0.0.3.apk",
+    "sha256_hash": "a3ca5e8dc7c124ce020cfed7f177fe00ffde8defe6cd48a22bc5568972226324",
+    "release_date": 1761817331000,
+    "file_size": 17541966,
+    "changelog": "Version 0.0.3: Bug fixes and improvements",
+    "is_critical": false
+  },
+  "current_version": 2,
+  "update_config": {
+    "check_interval_seconds": 3600,
+    "auto_download": false,
+    "auto_install": false,
+    "wifi_only": false
+  }
+}
