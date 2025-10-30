@@ -1,16 +1,16 @@
 {
   "update_available": true,
   "latest_version": {
-    "version_code": 8,
-    "version_name": "0.0.8",
-    "download_url": "https://github.com/dviz/dist/raw/main/test/UNICap-0.0.8.apk",
-    "sha256_hash": "27095d170597b2882dac26970ae2fdde02e6876f3a68f8e4b961714c566bce9c",
-    "release_date": 1761819243000,
-    "file_size": 17541962,
-    "changelog": "Version 0.0.8: Bug fixes and improvements",
+    "version_code": 9,
+    "version_name": "0.0.9",
+    "download_url": "https://github.com/dviz/dist/raw/main/test/UNICap-0.0.9.apk",
+    "sha256_hash": "df3580ee53a36d08a91fa6dfa17aaf33ba5f5f7c036777220fc207148ac9e7b3",
+    "release_date": 1761819456000,
+    "file_size": 17541966,
+    "changelog": "Version 0.0.9: Bug fixes and improvements",
     "is_critical": false
   },
-  "current_version": 7,
+  "current_version": 8,
   "update_config": {
     "check_interval_seconds": 3600,
     "auto_download": false,
