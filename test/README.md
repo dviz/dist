@@ -2,20 +2,20 @@
 
 ## Latest Version
 
-- **Version:** 0.0.4 (versionCode: 4)
-- **File:** [UNICap-0.0.4.apk](UNICap-0.0.4.apk)
+- **Version:** 0.0.8 (versionCode: 8)
+- **File:** [UNICap-0.0.8.apk](UNICap-0.0.8.apk)
 - **Size:** 17M
 - **Environment:** TEST
-- **Release Date:** 2025-10-30 12:45:27
+- **Release Date:** 2025-10-30 13:14:03
 
 ## Download
 
 ```
-https://github.com/dviz/dist/raw/main/test/UNICap-0.0.4.apk
+https://github.com/dviz/dist/raw/main/test/UNICap-0.0.8.apk
 ```
 
 ## SHA256 Hash
 
 ```
-f99a51575401cd85f6bec0077c3d665e8a956d4b631416c667fc7c344ae6386e
+27095d170597b2882dac26970ae2fdde02e6876f3a68f8e4b961714c566bce9c
 ```
