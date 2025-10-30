@@ -1,16 +1,16 @@
 {
-  "update_available": true,
+  "update_available": false,
   "latest_version": {
-    "version_code": 7,
-    "version_name": "0.0.7",
-    "download_url": "https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.7.apk",
-    "sha256_hash": "2b00e0762c25eeb58860672be319ed536372211a6beca380bd197e4e359fd8b5",
-    "release_date": 1761819198000,
-    "file_size": 17541966,
-    "changelog": "Version 0.0.7: Bug fixes and improvements",
+    "version_code": 1,
+    "version_name": "0.0.1",
+    "download_url": "https://github.com/dviz/dist/raw/main/prod/UNICap-0.0.1.apk",
+    "sha256_hash": "",
+    "release_date": 0,
+    "file_size": 0,
+    "changelog": "Initial production version",
     "is_critical": false
   },
-  "current_version": 6,
+  "current_version": 0,
   "update_config": {
     "check_interval_seconds": 3600,
     "auto_download": false,
